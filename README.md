@@ -2,4 +2,6 @@
 A Jest + npm lab session
 
 ## More info (in Swedish)
-See [this page] (https://mau-webb.github.io/resurser/da344a/laborationer/laboration-9/)
+See [this page](https://mau-webb.github.io/resurser/da344a/laborationer/laboration-9/)
+
+This is for a lab 
